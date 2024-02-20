@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@stylelint/postcss-css-in-js": "^0.38.0",
+    "stylelint": "^16.2.1",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-recommended": "^14.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-declaration-strict-value": "^1.10.4",
+    "stylelint-order": "^6.0.4"
+  }
+}
